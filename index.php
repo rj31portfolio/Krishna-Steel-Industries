@@ -38,7 +38,7 @@
 <?php include 'includes/home-about.php'; ?>
 
 <!--about end-->
-<section class="reels-section">
+<section class="reels-section d-none">
         <div class="container">
             <h2 class="section-title">Our Production Reels </h2>
             <div class="row">

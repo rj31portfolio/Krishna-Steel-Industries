@@ -1,20 +1,20 @@
 <!--footer start-->
-<footer class=" footer">
+<footer class="footer">
   <div class="primary-footer">
     <div class="container">
       <div class="row">
         <div class="col-lg-4 pe-lg-8">
           <a class="navbar-brand logo footer-logo mb-4 d-inline-block" href="<?php echo $base_url; ?>index.html">
-            <img class="img-fluid" src="<?php echo $base_url; ?>images/logo-keshav.png" alt="">
+            <img class="img-fluid" src="<?php echo $base_url; ?>images/logo-keshav.png" alt="Krishna Steel Industries Logo">
           </a>
           <ul class="media-icon list-unstyled">
             <li>
               <i class="flaticon-pin-1"></i>
-              <p class="mb-0">Kh.no 23/3,24/2, Safiyabad Road Gautam Colony Gali No - 10, Narela, New Delhi, New Delhi- 110040, Delhi, India</p>
+              <p class="mb-0">Kh.no 23/3,24/2, Safiyabad Road, Gautam Colony, Gali No - 10, Narela, New Delhi - 110040, Delhi, India</p>
             </li>
             <li>
               <i class="flaticon-mail"></i>
-              <a href="mailto:themeht23@gmail.com">keshaventerprises89@yahoo.com</a>
+              <a href="mailto:info@krishnasteelindustries.com">info@krishnasteelindustries.com</a>
             </li>
           </ul>
           <div class="footer-number">
@@ -27,6 +27,7 @@
             </div>
           </div>
         </div>
+
         <div class="col-lg-8 mt-5 mt-lg-0">
           <div class="row">
             <div class="col-md-3 footer-menu">
@@ -37,38 +38,42 @@
                 <li><a href="<?php echo $base_url; ?>privacy-policy.html">Privacy Policy</a></li>
               </ul>
             </div>
+
             <div class="col-md-3 mt-5 mt-md-0 footer-menu">
-              <h5>Our Services</h5>
+              <h5>Our Products</h5>
               <ul class="list-unstyled">
-                <li><a href="<?php echo $base_url; ?>services-single.html">D Frame Hydraulic Press</a></li>
-                <li><a href="<?php echo $base_url; ?>services-single.html">NC Press Brake</a></li>
-                <li><a href="<?php echo $base_url; ?>services-single.html">H Frame Mechanical Power Press</a></li>
+                <li><a href="<?php echo $base_url; ?>product/storage-rack.html">Storage Racks</a></li>
+                <li><a href="<?php echo $base_url; ?>product/display-rack.html">Display Racks</a></li>
+                <li><a href="<?php echo $base_url; ?>product/garment-display.html">Garment Display Solutions</a></li>
               </ul>
             </div>
+
             <div class="col-md-6 mt-5 mt-md-0 ps-lg-8 footer-subscribe">
               <h5>Newsletter</h5>
-              <p>Subscribe our newsletter to Get the latest news, tips and special offers.</p>
+              <p>Subscribe to our newsletter to receive the latest product updates, industry tips, and special offers.</p>
               <form id="mc-form" class="mc-form subscribe-form">
                 <input type="email" name="EMAIL" class="email" id="mc-email" placeholder="Email Address" required="">
                 <button type="submit"><i class="bi bi-send-fill"></i></button>
               </form>
               <ul class="list-inline ps-0 ms-0 mt-5 footer-social social-icons">
-                <li><a href="https://www.facebook.com/keshaventerprisesbawanadelhi"><i class="flaticon-facebook-app-symbol"></i></a></li>
-                <li><a href="https://www.instagram.com/keshaventerprises91/"><i class="flaticon-instagram"></i></a></li>
-                <li><a href="https://api.whatsapp.com/send/?phone=919873673917&text&type=phone_number&app_absent=0"><i class="flaticon-whatsapp"></i></a></li>
+                <li><a href="https://www.facebook.com/keshaventerprisesbawanadelhi" target="_blank"><i class="flaticon-facebook-app-symbol"></i></a></li>
+                <li><a href="https://www.instagram.com/keshaventerprises91/" target="_blank"><i class="flaticon-instagram"></i></a></li>
+                <li><a href="https://api.whatsapp.com/send/?phone=919873673917&text=Hello%20Krishna%20Steel%20Industries&type=phone_number&app_absent=0" target="_blank"><i class="flaticon-whatsapp"></i></a></li>
               </ul>
             </div>
           </div>
         </div>
+
       </div>
     </div>
   </div>
+
   <div class="secondary-footer">
     <div class="container">
       <div class="row">
         <div class="col text-center copyright">
-          Copyright 2025 by 
-          <u><a href="viraladsmedia.com">Viral Ads Media</a></u> | All Rights Reserved 
+          Copyright © 2025 <strong>Krishna Steel Industries</strong>. Powered by 
+          <u><a href="https://www.viraladsmedia.com" target="_blank">Viral Ads Media</a></u>. All Rights Reserved.
         </div>
       </div>
     </div>
@@ -98,30 +103,25 @@
     <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" />
   </svg>
 </div>
+
 <script>
 document.addEventListener("DOMContentLoaded", function () {
   // Toggle submenu on mobile
   var dropdowns = document.querySelectorAll(".dropdown-submenu > a");
   dropdowns.forEach(function (dropdown) {
     dropdown.addEventListener("click", function (e) {
-      // Prevent bootstrap default dropdown toggle
       e.preventDefault();
       e.stopPropagation();
-
-      // Close all other open submenus
       document.querySelectorAll(".dropdown-submenu .dropdown-menu").forEach(function (submenu) {
         if (submenu !== dropdown.nextElementSibling) {
           submenu.classList.remove("show");
         }
       });
-
-      // Toggle current submenu
       let submenu = dropdown.nextElementSibling;
       submenu.classList.toggle("show");
     });
   });
 
-  // Close submenu if user clicks outside
   document.addEventListener("click", function () {
     document.querySelectorAll(".dropdown-submenu .dropdown-menu").forEach(function (submenu) {
       submenu.classList.remove("show");
@@ -145,5 +145,4 @@ document.addEventListener("DOMContentLoaded", function () {
 <script src="<?php echo $base_url; ?>js/theme-script.js"></script>
 
 </body>
-
 </html>

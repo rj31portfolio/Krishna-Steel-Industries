@@ -11,7 +11,7 @@
                             </li>
                             <li>
                                 <i class="flaticon flaticon-mail"></i>
-                                <a href="mailto:keshaventerprises89@yahoo.com">keshaventerprises89@yahoo.com</a>
+                                <a href="mailto:info@krishnasteelindustries.com">info@krishnasteelindustries.com</a>
                             </li>
                             <li>
                                 <i class="bi bi-clock-fill"></i>
@@ -79,9 +79,9 @@
                                     <a class="nav-link active " href="index.php">Home</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link" href="about-us.php">About</a>
+                                    <a class="nav-link" href="#">About</a>
                                 </li>
-                                <li class="nav-item dropdown">
+                                <li class="nav-item dropdown d-none">
                                     <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown">Products</a>
                                     <ul class="dropdown-menu">
                                         <li><a class="dropdown-item" href="<?php echo $base_url; ?>products/C-Frame-Power-Press.php">C Frame Power Press</a></li>
@@ -118,7 +118,7 @@
                                 </li>
 
                                 <li class="nav-item">
-                                    <a class="nav-link" href="contact.php">Contact</a>
+                                    <a class="nav-link" href="#">Contact</a>
                                 </li>
                             </ul>
                         </div>
@@ -127,7 +127,7 @@
                                 <i class="flaticon flaticon-telephone"></i>
                                 <div>
                                     <span>Have Question:</span>
-                                    <a href="tel:+919873673917">+91 9873673917</a>
+                                    <a href="tel:+918076363093">+91 8076363093</a>
                                 </div>
                             </div>
                             <a class="themeht-btn primary-btn" href="contact.php">
