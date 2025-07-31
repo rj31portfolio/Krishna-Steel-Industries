@@ -22,7 +22,7 @@
               <i class="flaticon-phone-call"></i>
               <div>
                 <span>Feel Free To Call Us</span>
-                <a href="tel:+919873673917">+91 9873673917</a>
+                <a href="tel:+918076363093">+91 8076363093</a>
               </div>
             </div>
           </div>

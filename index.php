@@ -548,106 +548,115 @@
 <section class="form-section">
   <div class="container">
     <div class="row justify-content-between">
+      <!-- Left Content -->
       <div class="col-lg-5 col-md-12">
         <div class="theme-title text-white">
-          <h6>What We Do</h6>
-          <h2 class="text-anime-style">What About Our Industry Performance</h2>
+          <h6>Who We Are</h6>
+          <h2 class="text-anime-style">Performance in the Storage Solutions Industry</h2>
           <div class="title-divider">
             <span class="title-divider-separator"></span>
           </div>
         </div>
-        <p class="text-white mb-5">Our industrial service specializes in maximizing machinery performance and lifespan. With expert maintenance, timely repairs, and custom solutions, we address your unique operational needs all your industrial.</p>
+        <p class="text-white mb-5">
+          Established in 2019, Krishna Steel Industries is a leading manufacturer and wholesaler of premium storage racks, stainless steel baskets, display stands, and belt stands. We are committed to delivering innovative, space-efficient, and durable solutions tailored to retail, commercial, and industrial needs.
+        </p>
+
         <div class="ht-progress-bar text-white">
           <div class="flex-grow-1">
-            <h4>Manufacturing</h4>
-            <div class="progress" data-value="85">
+            <h4>Storage Rack Manufacturing</h4>
+            <div class="progress" data-value="95">
               <div class="progress-bar">
-                <div class="progress-parcent">
-                  <span>85</span>%
-                </div>
+                <div class="progress-parcent"><span>95</span>%</div>
               </div>
             </div>
           </div>
         </div>
         <div class="ht-progress-bar text-white">
           <div class="flex-grow-1">
-            <h4>Building Construction</h4>
+            <h4>Display & Garment Solutions</h4>
             <div class="progress" data-value="90">
               <div class="progress-bar">
-                <div class="progress-parcent">
-                  <span>90</span>%
-                </div>
+                <div class="progress-parcent"><span>90</span>%</div>
               </div>
             </div>
           </div>
         </div>
         <div class="ht-progress-bar text-white">
           <div class="flex-grow-1">
-            <h4>Industry</h4>
-            <div class="progress" data-value="70">
+            <h4>Custom Metal Fabrication</h4>
+            <div class="progress" data-value="85">
               <div class="progress-bar">
-                <div class="progress-parcent">
-                  <span>70</span>%
-                </div>
+                <div class="progress-parcent"><span>85</span>%</div>
               </div>
             </div>
           </div>
         </div>
-        <h6 class="ht-heading mb-0 mt-8 text-white">Have Any Question ? Call us Free: <a class="text-theme text-decoration-underline fw-bold" href="tel:+919873673917">+91 9873673917</a>
+
+        <h6 class="ht-heading mb-0 mt-8 text-white">
+          Have a Question? Call Us: 
+          <a class="text-theme text-decoration-underline fw-bold" href="tel:+918076363093">+91 8076363093</a>
         </h6>
       </div>
-      <div class=" col-lg-6 mt-10 mt-lg-0">
+
+      <!-- Right Form -->
+      <div class="col-lg-6 mt-10 mt-lg-0">
         <div class="primary-bg p-6 form-border z-index-1">
           <div class="theme-title text-white">
-            <h6>Get In Touch</h6>
-            <h2 class="text-anime-style">Request A Quote</h2>
+            <h6>Contact Us</h6>
+            <h2 class="text-anime-style">Request a Custom Quote</h2>
             <div class="title-divider">
               <span class="title-divider-separator"></span>
             </div>
           </div>
+
           <form id="contact-form" method="post" action="submit.php">
             <div class="messages"></div>
             <div class="row">
               <div class="col-md-6">
                 <div class="form-group">
-                  <input id="form_name" type="text" name="name" class="form-control" placeholder="Enter Your Name" required="required" data-error="Name is required.">
-                  <div class="help-block with-errors"></div>
+                  <input id="form_name" type="text" name="name" class="form-control" placeholder="Enter Your Name" required>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="form-group">
-                  <input id="form_email" type="email" name="email" class="form-control" placeholder="Enter Email Address" required="required" data-error="Valid email is required.">
-                  <div class="help-block with-errors"></div>
+                  <input id="form_email" type="email" name="email" class="form-control" placeholder="Enter Email Address" required>
                 </div>
               </div>
             </div>
+
             <div class="row">
               <div class="col-md-6">
                 <div class="form-group">
-                  <input id="form_phone" type="tel" name="phone" class="form-control" placeholder="Enter Phone number" required="required" data-error="Phone is required">
-                  <div class="help-block with-errors"></div>
+                  <input id="form_phone" type="tel" name="phone" class="form-control" placeholder="Enter Phone Number" required>
                 </div>
               </div>
               <div class="col-md-6">
                 <div class="form-group">
-                  <select class="form-control form-select" aria-label="Default select example">
-                    <option selected>Select Service</option>
-                    <option value="1">Industry</option>
-                    <option value="2">Construction</option>
-                    <option value="3">Factory</option>
+                  <select name="service" class="form-control form-select" required>
+                    <option selected disabled>Select Product Category</option>
+                    <option value="Storage Rack">Storage Rack</option>
+                    <option value="Display Rack">Display Rack</option>
+                    <option value="Display Stand">Display Stand</option>
+                    <option value="Garment Rack">Garment Rack</option>
+                    <option value="Belt Stand">Belt Stand</option>
+                    <option value="Stainless Steel Basket">SS Basket</option>
+                    <option value="Wooden Rack">Wooden Rack</option>
+                    <option value="Other">Other</option>
                   </select>
                 </div>
               </div>
             </div>
+
             <div class="row">
               <div class="col-md-12">
                 <div class="form-group">
-                  <textarea id="form_message" name="message" class="form-control" placeholder="Write Your Message Here..." rows="4" required="required" data-error="Please,leave us a message."></textarea>
-                  <div class="help-block with-errors"></div>
+                  <textarea id="form_message" name="message" class="form-control" placeholder="Write Your Message Here..." rows="4" required></textarea>
                 </div>
               </div>
               <div class="col-md-12 mt-3">
-                <button type="submit" class="themeht-btn dark-alt w-100"> <span>Send Message</span> <i class="flaticon flaticon-double-chevron"></i></button>
+                <button type="submit" class="themeht-btn dark-alt w-100">
+                  <span>Send Message</span> <i class="flaticon flaticon-double-chevron"></i>
+                </button>
               </div>
             </div>
           </form>
@@ -655,10 +664,13 @@
       </div>
     </div>
   </div>
+
+  <!-- Optional Right-side Decorative Image -->
   <div class="ht-image-right">
-    <img class="img-fluid" src="images/right-img2.png" alt="">
+    <img class="img-fluid" src="images/right-img2.png" alt="Krishna Steel Rack Image">
   </div>
 </section>
+
 
 <!--form end-->
 
