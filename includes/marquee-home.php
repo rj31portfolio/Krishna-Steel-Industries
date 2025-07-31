@@ -1,40 +1,44 @@
-
-<section class=" overflow-hidden p-5 ">
+<section class="overflow-hidden p-5">
   <div class="container-fluid primary-bg">
     <div class="row">
       <div class="col">
         <div class="marquee-wrap marquee_mode">
           <div class="marquee-inner">
+            <!-- Product Categories Running Text -->
             <div class="marquee-text text-white">
-              <span>POWER PRESS</span>
+              <span>Storage Rack </span>
               <i class="flaticon flaticon-factory-1"></i>
             </div>
             <div class="marquee-text text-white">
-              <span>HYDRAULIC PRESS</span>
+              <span>Display Rack </span>
               <i class="flaticon flaticon-factory-1"></i>
             </div>
             <div class="marquee-text text-white">
-              <span>NC PRESS BRAKE</span>
+              <span>Display Stand </span>
               <i class="flaticon flaticon-factory-1"></i>
             </div>
             <div class="marquee-text text-white">
-              <span>EXPORTS</span>
+              <span>Garment Display Rack </span>
               <i class="flaticon flaticon-factory-1"></i>
             </div>
             <div class="marquee-text text-white">
-              <span>Industry</span>
+              <span>Garment Display Stand </span>
               <i class="flaticon flaticon-factory-1"></i>
             </div>
             <div class="marquee-text text-white">
-              <span>Petroleum</span>
+              <span>Wooden Rack</span>
               <i class="flaticon flaticon-factory-1"></i>
             </div>
             <div class="marquee-text text-white">
-              <span>Renewable</span>
+              <span>Belt Stand</span>
               <i class="flaticon flaticon-factory-1"></i>
             </div>
             <div class="marquee-text text-white">
-              <span>Krishna Steel Industries </span>
+              <span>Gondola Unit </span>
+              <i class="flaticon flaticon-factory-1"></i>
+            </div>
+            <div class="marquee-text text-white">
+              <span>Krishna Steel Industries</span>
               <i class="flaticon flaticon-factory-1"></i>
             </div>
           </div>
