@@ -8,7 +8,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $message = htmlspecialchars(trim($_POST['message']));
 
     // Recipient email
-    $to = "info@keshaventerprises.com"; // Replace with your actual email
+    $to = "info.viraladsmedia@gmail.com"; // Replace with your actual email
    $subject = "📩 New Client Enquiry | Powered by Viral Ads Media";
 
 $body = "
@@ -31,8 +31,6 @@ $body = "
         <p style='font-size: 14px; color: #666;'>This enquiry was submitted via <strong>Viral Ads Media</strong> — Your Digital Growth Partner.</p>
     </div>
 ";
-
-
     // Headers
     $headers = "MIME-Version: 1.0" . "\r\n";
     $headers .= "Content-type:text/html;charset=UTF-8" . "\r\n";
