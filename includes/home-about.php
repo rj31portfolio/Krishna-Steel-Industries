@@ -8,7 +8,7 @@
             <img decoding="async" class="img-fluid" src="<?php echo $base_url; ?>images/about-shape2.png" alt="Image">
           </div>
           <div class="about-sec1 img1">
-            <img src="<?php echo $base_url; ?>images/about/01.png" class="img-fluid" alt="">
+            <img src="<?php echo $base_url; ?>images/about/about-1.png" class="img-fluid" alt="">
           </div>
           <div class="about-sec1 img2">
             <div class="about-sec1-inner">
