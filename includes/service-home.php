@@ -23,7 +23,7 @@
             <div class="swiper-slide">
               <div class="service-item style-1">
                 <div class="service-img">
-                  <img class="img-fluid" src="images/products/storage-rack.png" alt="Storage Rack">
+                  <img class="img-fluid" src="images/service/storage rack.png" alt="Storage Rack">
                 </div>
                 <div class="service-desc">
                   <div class="service-title">
@@ -42,7 +42,7 @@
             <div class="swiper-slide">
               <div class="service-item style-1">
                 <div class="service-img">
-                  <img class="img-fluid" src="images/products/display-rack.png" alt="Display Rack">
+                  <img class="img-fluid" src="images/service/display rock.png" alt="Display Rack">
                 </div>
                 <div class="service-desc">
                   <div class="service-title">
@@ -61,11 +61,11 @@
             <div class="swiper-slide">
               <div class="service-item style-1">
                 <div class="service-img">
-                  <img class="img-fluid" src="images/products/garment-display-stand.png" alt="Garment Display Stand">
+                  <img class="img-fluid" src="images/service/Garment Display Rack.png" alt="Garment Display Stand">
                 </div>
                 <div class="service-desc">
                   <div class="service-title">
-                    <h4>Garment Display Stand</h4>
+                    <h4>Garment Stand</h4>
                   </div>
                   <p>Premium garment display stands – perfect for boutiques and apparel outlets. Sleek, strong & customizable. (11+ types)</p>
                   <a class="service-btn" href="#">
@@ -80,11 +80,11 @@
             <div class="swiper-slide">
               <div class="service-item style-1">
                 <div class="service-img">
-                  <img class="img-fluid" src="images/products/ss-basket.png" alt="Stainless Steel Basket">
+                  <img class="img-fluid" src="images/service/Stainless Steel Two Way Cloth Display Stand.png" alt="Stainless Steel Basket">
                 </div>
                 <div class="service-desc">
                   <div class="service-title">
-                    <h4>Stainless Steel Basket</h4>
+                    <h4>Steel Basket</h4>
                   </div>
                   <p>Sturdy stainless steel baskets ideal for modular kitchens and organized storage. Rust-resistant & durable. (5+ types)</p>
                   <a class="service-btn" href="#">
@@ -99,7 +99,7 @@
             <div class="swiper-slide">
               <div class="service-item style-1">
                 <div class="service-img">
-                  <img class="img-fluid" src="images/products/belt-stand.png" alt="Belt Stand">
+                  <img class="img-fluid" src="images/service/Belt Stand.png" alt="Belt Stand">
                 </div>
                 <div class="service-desc">
                   <div class="service-title">
