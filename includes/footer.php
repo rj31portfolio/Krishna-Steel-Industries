@@ -4,8 +4,8 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-4 pe-lg-8">
-          <a class="navbar-brand logo footer-logo mb-4 d-inline-block" href="<?php echo $base_url; ?>index.html">
-            <img class="img-fluid" src="<?php echo $base_url; ?>images/logo-keshav.png" alt="Krishna Steel Industries Logo">
+          <a class="navbar-brand logo footer-logo mb-4 d-flex justify-content-center " href="<?php echo $base_url; ?>index.html">
+            <img class="img-fluid" src="<?php echo $base_url; ?>images/logo-krishna.png" alt="Krishna Steel Industries Logo">
           </a>
           <ul class="media-icon list-unstyled">
             <li>

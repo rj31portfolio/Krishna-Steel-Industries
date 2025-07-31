@@ -152,12 +152,12 @@ input,
 .header-number i:after { position: absolute; top: -7px; right: -7px; bottom: -7px; left: -7px; background-color: var(--themeht-primary-color); opacity: 0.1; border-radius: 50%; content: ""; }
 
 
-#header-wrap.fixed-header .logo img { height: 55px; }
+#header-wrap.fixed-header .logo img { height: 70px; }
 .header { position: relative; top: 0; width: 100%; z-index: 1200; }
 #header-wrap { position: relative; padding: 20px 0 }
 #header-wrap.fixed-header { animation: smoothScroll 1s forwards; position: fixed; top: 0; left: 0; width: 100%; z-index: 999 !important; background: var(--themeht-white-color) !important; }
-.navbar-brand { margin-right: 50px; padding: 0; }
-.logo img{max-height: 70px;}
+.navbar-brand { margin-right: 100px; padding: 0; }
+.logo img{max-height: 110px;}
 .navbar { padding: 0; }
 .navbar-nav .nav-item { margin: 0 15px; }
 .navbar-nav .nav-item.dropdown .dropdown-menu { padding: 20px; background: var(--themeht-white-color); top: 100%; border: none; border-radius: 0; border-top: 2px solid var(--themeht-primary-color); box-shadow: 0px 4px 15px rgba(1, 15, 28, 0.06); margin-top: 0; left: 0; }

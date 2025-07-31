@@ -57,7 +57,7 @@
                     <!-- Navbar -->
                     <nav class="navbar navbar-expand-xl">
                         <a class="navbar-brand logo" href="index.php">
-                            <img class="img-fluid" src="<?php echo $base_url; ?>images/logo-keshav.png" alt="">
+                            <img class="img-fluid" src="<?php echo $base_url; ?>images/logo-krishna.png" alt="">
                         </a>
                         <button class="navbar-toggler ht-toggler" type="button" data-bs-toggle="collapse"
                             data-bs-target="#navbarNav" aria-expanded="false" aria-label="Toggle navigation">
