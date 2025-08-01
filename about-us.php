@@ -35,26 +35,26 @@
   <div class="container"> 
     <div class="row align-items-center">
       <div class="col-lg-6 col-md-12">
-        <img class="img-fluid" src="images/about/about-us.png" alt="Keshav Enterprises Factory">
+        <img class="img-fluid" src="images/about/about-us.png" alt="Krishna Steel Industries Factory">
       </div>
       <div class="col-lg-6 col-md-12 mt-10 mt-lg-0 ps-lg-10">
         <div class="theme-title">
           <h6>About Us</h6>
-          <h2 class="text-anime-style">Leading Manufacturer of Industrial Machinery Since 1989</h2>
+          <h2 class="text-anime-style">Trusted Manufacturer of Display & Storage Solutions Since 2019</h2>
           <div class="title-divider">
             <span class="title-divider-separator"></span>
           </div>
-          <p>Founded in 1989 in New Delhi, <strong>Keshav Enterprises</strong> is a trusted name in the manufacturing and export of industrial machines. We specialize in Power Presses, Hydraulic Press Brakes, Shearing Machines, and Hinges Machinery. With a commitment to innovation, quality, and customer satisfaction, we continue to deliver reliable engineering solutions to industries across India and beyond.</p>
+          <p><strong>Krishna Steel Industries</strong>, established in 2019 in Narela, Delhi, is a leading manufacturer, wholesaler, and supplier of high-quality storage racks, display stands, SS baskets, and customized shelving systems. As a proprietorship firm led by CEO Ms. Pooja, we are committed to delivering durable, innovative, and cost-effective steel solutions tailored for retail, warehousing, and industrial needs across India.</p>
         </div>
         <div class="row">
           <div class="col-md-6">
             <div class="ht-progress-bar">
               <div class="flex-grow-1">
-                <h4>Power Press Manufacturing</h4>
-                <div class="progress" data-value="95">
-                  <div class="progress-bar" style="width: 95%;">
+                <h4>Storage Rack Manufacturing</h4>
+                <div class="progress" data-value="96">
+                  <div class="progress-bar" style="width: 96%;">
                     <div class="progress-parcent">
-                      <span>95</span>%
+                      <span>96</span>%
                     </div>
                   </div>
                 </div>
@@ -62,11 +62,11 @@
             </div>
             <div class="ht-progress-bar">
               <div class="flex-grow-1">
-                <h4>Hydraulic Press Brakes</h4>
-                <div class="progress" data-value="90">
-                  <div class="progress-bar" style="width: 90%;">
+                <h4>Garment Display Racks</h4>
+                <div class="progress" data-value="92">
+                  <div class="progress-bar" style="width: 92%;">
                     <div class="progress-parcent">
-                      <span>90</span>%
+                      <span>92</span>%
                     </div>
                   </div>
                 </div>
@@ -74,11 +74,11 @@
             </div>
             <div class="ht-progress-bar">
               <div class="flex-grow-1">
-                <h4>Shearing Solutions</h4>
-                <div class="progress" data-value="88">
-                  <div class="progress-bar" style="width: 88%;">
+                <h4>Customized Stand Solutions</h4>
+                <div class="progress" data-value="89">
+                  <div class="progress-bar" style="width: 89%;">
                     <div class="progress-parcent">
-                      <span>88</span>%
+                      <span>89</span>%
                     </div>
                   </div>
                 </div>
@@ -88,16 +88,16 @@
           <div class="col-md-6 mt-6 mt-lg-0">
             <ul class="list-unstyled list-icon style-1">
               <li>
-                <i class="flaticon flaticon-check-mark-1"></i> 35+ Years of Industry Leadership
+                <i class="flaticon flaticon-check-mark-1"></i> 5+ Years of Industry Experience
               </li>
               <li>
-                <i class="flaticon flaticon-check-mark-1"></i> ISO-Standard Quality Assurance
+                <i class="flaticon flaticon-check-mark-1"></i> High-Quality, Durable Products
               </li>
               <li>
-                <i class="flaticon flaticon-check-mark-1"></i> Skilled Engineering & Workforce
+                <i class="flaticon flaticon-check-mark-1"></i> Skilled Team & Custom Designs
               </li>
               <li>
-                <i class="flaticon flaticon-check-mark-1"></i> Timely Delivery & Strong Support
+                <i class="flaticon flaticon-check-mark-1"></i> On-Time Delivery & Client Support
               </li>
             </ul>
           </div>
@@ -107,13 +107,14 @@
   </div>
 </section>
 
- <section class="pt-0">
+
+<section class="pt-0">
   <div class="container">
     <div class="row justify-content-center text-center">
       <div class="col-xl-7 col-lg-8 col-md-12">
         <div class="theme-title">
           <h6>Why Choose Us</h6>
-          <h2 class="text-anime-style">Reliable Industrial Solutions Backed by Experience</h2>
+          <h2 class="text-anime-style">Dependable Display & Storage Solutions Backed by Experience</h2>
           <div class="title-divider">
             <span class="title-divider-separator"></span>
           </div>
@@ -126,42 +127,42 @@
           <div class="featured-icon"><i class="flaticon flaticon-innovation"></i></div>
           <div class="featured-desc">
             <div class="featured-title">
-              <h4>Innovative Engineering</h4>
+              <h4>Smart & Functional Designs</h4>
             </div>
-            <p>We continuously invest in R&D to deliver state-of-the-art machinery with innovative designs and higher efficiency.</p>
+            <p>Our racks and stands are engineered for durability, space optimization, and visual appeal across retail and industrial spaces.</p>
           </div>
         </div>
       </div>
-      <div class=" col-lg-4 col-md-6 mt-6 mt-md-0">
+      <div class="col-lg-4 col-md-6 mt-6 mt-md-0">
         <div class="featured-item style-1">
           <div class="featured-icon"><i class="flaticon flaticon-robotic-arm"></i></div>
           <div class="featured-desc">
             <div class="featured-title">
-              <h4>Modern Equipment</h4>
+              <h4>Modern Manufacturing Setup</h4>
             </div>
-            <p>Our facility is equipped with modern manufacturing tools to ensure precision-built machines for all industrial needs.</p>
+            <p>Equipped with advanced tools and fabrication systems, we ensure precision and strength in every product.</p>
           </div>
         </div>
       </div>
-      <div class=" col-lg-4 col-md-6 mt-6 mt-lg-0">
+      <div class="col-lg-4 col-md-6 mt-6 mt-lg-0">
         <div class="featured-item style-1">
           <div class="featured-icon"><i class="flaticon flaticon-engineer-2"></i></div>
           <div class="featured-desc">
             <div class="featured-title">
-              <h4>Skilled Professionals</h4>
+              <h4>Experienced Team</h4>
             </div>
-            <p>Our team of certified engineers and technicians ensures top-tier craftsmanship and technical excellence.</p>
+            <p>Our skilled engineers and technicians bring years of expertise in customizing racks and shelving units to client specifications.</p>
           </div>
         </div>
       </div>
-      <div class=" col-lg-4 col-md-6 mt-6">
+      <div class="col-lg-4 col-md-6 mt-6">
         <div class="featured-item style-1">
           <div class="featured-icon"><i class="flaticon flaticon-manufacture-1"></i></div>
           <div class="featured-desc">
             <div class="featured-title">
-              <h4>In-House Manufacturing</h4>
+              <h4>In-House Production</h4>
             </div>
-            <p>From raw material to final assembly, all processes are handled in-house for quality control and timely delivery.</p>
+            <p>Every stage — from material cutting to powder coating — is done under one roof for better quality and timely delivery.</p>
           </div>
         </div>
       </div>
@@ -170,33 +171,35 @@
           <div class="featured-icon"><i class="flaticon flaticon-urban-planning"></i></div>
           <div class="featured-desc">
             <div class="featured-title">
-              <h4>Custom Solutions</h4>
+              <h4>Custom Fabrication</h4>
             </div>
-            <p>We offer customized industrial machinery tailored to specific customer needs and production goals.</p>
+            <p>We create tailored display and storage solutions based on your space, load capacity, and design preferences.</p>
           </div>
         </div>
       </div>
-      <div class=" col-lg-4 col-md-6 mt-6">
+      <div class="col-lg-4 col-md-6 mt-6">
         <div class="featured-item style-1">
           <div class="featured-icon"><i class="flaticon flaticon-support"></i></div>
           <div class="featured-desc">
             <div class="featured-title">
-              <h4>After-Sales Support</h4>
+              <h4>Dedicated Support</h4>
             </div>
-            <p>Our commitment doesn’t end at delivery—we offer 24/7 customer support and on-site service assistance.</p>
+            <p>Our relationship doesn't end at delivery—we provide installation guidance, care tips, and post-sales assistance whenever needed.</p>
           </div>
         </div>
       </div>
     </div>
   </div>
 </section>
+
+
 <section>
   <div class="container">
     <div class="row justify-content-center text-center">
       <div class="col-xl-7 col-lg-8 col-md-12">
         <div class="theme-title">
-          <h6>Our Services</h6>
-          <h2 class="text-anime-style">Awesome Services From <br> Keshav Enterprises</h2>
+          <h6>Our Products</h6>
+          <h2 class="text-anime-style">Premium Racking Solutions From <br> Krishna Steel Industries</h2>
           <div class="title-divider">
             <span class="title-divider-separator"></span>
           </div>
@@ -211,16 +214,16 @@
             <div class="swiper-slide">
               <div class="service-item style-2">
                 <div class="service-icon">
-                  <i class="flaticon flaticon-mechanical"></i>
+                  <i class="flaticon flaticon-factory-1"></i>
                 </div>
                 <div class="service-title">
-                  <h4>H Frame Ungeared Power Press</h4>
+                  <h4>Storage Rack</h4>
                 </div>
                 <div class="service-img">
-                  <img class="img-fluid" src="images/service/1.png" alt="">
+                  <img class="img-fluid" src="images/products/storage-rack.jpg" alt="Storage Rack">
                 </div>
                 <div class="service-desc">
-                  <p>H Frame Ungeared Power Press by Keshav Enterprises – designed for precision and durability in heavy-duty industrial applications.</p>
+                  <p>Heavy-duty storage racks designed for warehouses, showrooms, and industrial use – high load capacity and durable steel construction.</p>
                   <a class="service-btn" href="#">
                     <span>Learn More</span>
                     <i class="flaticon flaticon-double-chevron"></i>
@@ -232,16 +235,16 @@
             <div class="swiper-slide">
               <div class="service-item style-2">
                 <div class="service-icon">
-                  <i class="flaticon flaticon-mechanical"></i>
+                  <i class="flaticon flaticon-factory-1"></i>
                 </div>
                 <div class="service-title">
-                  <h4>Hydraulic Press Brake Back Cylinder</h4>
+                  <h4>Garment Display Rack</h4>
                 </div>
                 <div class="service-img">
-                  <img class="img-fluid" src="images/service/2.png" alt="">
+                  <img class="img-fluid" src="images/products/garment-display-rack.jpg" alt="Garment Display Rack">
                 </div>
                 <div class="service-desc">
-                  <p>Explore the Hydraulic Press Brake with Back Cylinder by Keshav Enterprises – engineered for precise and powerful metal bending operations in industrial settings.</p>
+                  <p>Stylish and sturdy garment display racks for retail stores – available in customizable sizes and finishes.</p>
                   <a class="service-btn" href="#">
                     <span>Learn More</span>
                     <i class="flaticon flaticon-double-chevron"></i>
@@ -253,16 +256,16 @@
             <div class="swiper-slide">
               <div class="service-item style-2">
                 <div class="service-icon">
-                  <i class="flaticon flaticon-mechanical"></i>
+                  <i class="flaticon flaticon-factory-1"></i>
                 </div>
                 <div class="service-title">
-                  <h4>Hydraulic Press Brake Front Cylinder</h4>
+                  <h4>Wooden Display Rack</h4>
                 </div>
                 <div class="service-img">
-                  <img class="img-fluid" src="images/service/3.png" alt="">
+                  <img class="img-fluid" src="images/products/wooden-display-rack.jpg" alt="Wooden Rack">
                 </div>
                 <div class="service-desc">
-                  <p>Get high-precision Hydraulic Press Brake with Front Cylinder from Keshav Enterprises – ideal for bending and forming sheet metal with accuracy and reliability.</p>
+                  <p>Modern wooden racks for an elegant look – perfect for showrooms, boutiques, and departmental stores.</p>
                   <a class="service-btn" href="#">
                     <span>Learn More</span>
                     <i class="flaticon flaticon-double-chevron"></i>
@@ -274,16 +277,16 @@
             <div class="swiper-slide">
               <div class="service-item style-2">
                 <div class="service-icon">
-                  <i class="flaticon flaticon-mechanical"></i>
+                  <i class="flaticon flaticon-factory-1"></i>
                 </div>
                 <div class="service-title">
-                  <h4>Over Crank Shearing Machine</h4>
+                  <h4>Gondola Rack Unit</h4>
                 </div>
                 <div class="service-img">
-                  <img class="img-fluid" src="images/service/4.png" alt="">
+                  <img class="img-fluid" src="images/products/gondola-unit.jpg" alt="Gondola Rack">
                 </div>
                 <div class="service-desc">
-                  <p>High-performance Over Crank Shearing Machines by Keshav Enterprises – built for precision cutting, durability, and heavy-duty sheet metal operations.</p>
+                  <p>Double-sided gondola racks for efficient aisle presentation in retail shops and supermarkets.</p>
                   <a class="service-btn" href="#">
                     <span>Learn More</span>
                     <i class="flaticon flaticon-double-chevron"></i>
@@ -291,19 +294,20 @@
                 </div>
               </div>
             </div>
+
             <div class="swiper-slide">
               <div class="service-item style-2">
                 <div class="service-icon">
-                  <i class="flaticon flaticon-mechanical"></i>
+                  <i class="flaticon flaticon-factory-1"></i>
                 </div>
                 <div class="service-title">
-                  <h4>Hydraulic Shearing Machine</h4>
+                  <h4>Stainless Steel Basket</h4>
                 </div>
                 <div class="service-img">
-                  <img class="img-fluid" src="images/service/5.png" alt="">
+                  <img class="img-fluid" src="images/products/ss-basket.jpg" alt="SS Basket">
                 </div>
                 <div class="service-desc">
-                  <p>Explore precision-built Hydraulic Shearing Machines from Keshav Enterprises in New Delhi – ideal for smooth, accurate, and efficient metal cutting.</p>
+                  <p>High-grade stainless steel baskets for kitchen, retail, and industrial organization – rust-resistant and long-lasting.</p>
                   <a class="service-btn" href="#">
                     <span>Learn More</span>
                     <i class="flaticon flaticon-double-chevron"></i>
@@ -311,19 +315,20 @@
                 </div>
               </div>
             </div>
+
             <div class="swiper-slide">
               <div class="service-item style-2">
                 <div class="service-icon">
-                  <i class="flaticon flaticon-mechanical"></i>
+                  <i class="flaticon flaticon-factory-1"></i>
                 </div>
                 <div class="service-title">
-                  <h4>Under Crank Shearing Machine</h4>
+                  <h4>Belt & Broom Stand</h4>
                 </div>
                 <div class="service-img">
-                  <img class="img-fluid" src="images/service/6.png" alt="">
+                  <img class="img-fluid" src="images/products/belt-stand.jpg" alt="Belt Stand">
                 </div>
                 <div class="service-desc">
-                  <p>Get precision and performance with Under Crank Shearing Machines from Keshav Enterprises – designed for smooth metal cutting and long-lasting durability.</p>
+                  <p>Compact and sturdy belt stands and broom stands – designed for neat display and easy access in retail spaces.</p>
                   <a class="service-btn" href="#">
                     <span>Learn More</span>
                     <i class="flaticon flaticon-double-chevron"></i>
@@ -331,6 +336,7 @@
                 </div>
               </div>
             </div>
+
           </div>
           <div class="swiper-dots">
             <div id="service-pagination" class="swiper-pagination"></div>
@@ -340,6 +346,7 @@
     </div>
   </div>
 </section>
+
 
 <!--footer start-->
 <?php require_once('includes/footer.php');?>
