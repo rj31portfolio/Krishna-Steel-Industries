@@ -17,7 +17,7 @@
 <!--header start-->
 <?php require_once('includes/header.php');?>
 <!--header end-->
-<section class="page-title" data-bg-img="images/bg/02.jpg" style="background-image: url(&quot;images/bg/02.jpg&quot;);">
+<section class="page-title" data-bg-img="images/bg/banner.jpg" style="background-image: url(&quot;images/bg/02.jpg&quot;);">
   <div class="container">
     <div class="row">
       <div class="col-lg-6">
@@ -35,7 +35,7 @@
   <div class="container"> 
     <div class="row align-items-center">
       <div class="col-lg-6 col-md-12">
-        <img class="img-fluid" src="images/about/about-us.png" alt="Krishna Steel Industries Factory">
+        <img class="img-fluid" src="images/about/about.png" alt="Krishna Steel Industries Factory">
       </div>
       <div class="col-lg-6 col-md-12 mt-10 mt-lg-0 ps-lg-10">
         <div class="theme-title">
@@ -220,7 +220,7 @@
                   <h4>Storage Rack</h4>
                 </div>
                 <div class="service-img">
-                  <img class="img-fluid" src="images/products/storage-rack.jpg" alt="Storage Rack">
+                  <img class="img-fluid" src="images/service/storage rack.png" alt="Storage Rack">
                 </div>
                 <div class="service-desc">
                   <p>Heavy-duty storage racks designed for warehouses, showrooms, and industrial use – high load capacity and durable steel construction.</p>
@@ -241,7 +241,7 @@
                   <h4>Garment Display Rack</h4>
                 </div>
                 <div class="service-img">
-                  <img class="img-fluid" src="images/products/garment-display-rack.jpg" alt="Garment Display Rack">
+                  <img class="img-fluid" src="images/service/Garment Display Rack.png" alt="Garment Display Rack">
                 </div>
                 <div class="service-desc">
                   <p>Stylish and sturdy garment display racks for retail stores – available in customizable sizes and finishes.</p>
@@ -262,7 +262,7 @@
                   <h4>Wooden Display Rack</h4>
                 </div>
                 <div class="service-img">
-                  <img class="img-fluid" src="images/products/wooden-display-rack.jpg" alt="Wooden Rack">
+                  <img class="img-fluid" src="images/service/display stand.png" alt="Wooden Rack">
                 </div>
                 <div class="service-desc">
                   <p>Modern wooden racks for an elegant look – perfect for showrooms, boutiques, and departmental stores.</p>
@@ -283,7 +283,7 @@
                   <h4>Gondola Rack Unit</h4>
                 </div>
                 <div class="service-img">
-                  <img class="img-fluid" src="images/products/gondola-unit.jpg" alt="Gondola Rack">
+                  <img class="img-fluid" src="images/service/Garment Display Rack.png" alt="Gondola Rack">
                 </div>
                 <div class="service-desc">
                   <p>Double-sided gondola racks for efficient aisle presentation in retail shops and supermarkets.</p>
@@ -304,7 +304,7 @@
                   <h4>Stainless Steel Basket</h4>
                 </div>
                 <div class="service-img">
-                  <img class="img-fluid" src="images/products/ss-basket.jpg" alt="SS Basket">
+                  <img class="img-fluid" src="images/service/Stainless Steel Two Way Cloth Display Stand.png" alt="SS Basket">
                 </div>
                 <div class="service-desc">
                   <p>High-grade stainless steel baskets for kitchen, retail, and industrial organization – rust-resistant and long-lasting.</p>
@@ -325,7 +325,7 @@
                   <h4>Belt & Broom Stand</h4>
                 </div>
                 <div class="service-img">
-                  <img class="img-fluid" src="images/products/belt-stand.jpg" alt="Belt Stand">
+                  <img class="img-fluid" src="images/service/Belt Stand.png" alt="Belt Stand">
                 </div>
                 <div class="service-desc">
                   <p>Compact and sturdy belt stands and broom stands – designed for neat display and easy access in retail spaces.</p>
