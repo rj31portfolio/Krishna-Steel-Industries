@@ -35,6 +35,52 @@
 <?php include 'includes/home-about.php'; ?>
 
 <!--about end-->
+<!--brand logo start-->
+
+<section class=" pb-0">
+  <div class="container">
+    <div class="row align-items-center border-bottom border-light pb-10">
+      <div class="col-xxl-2 col-md-3">
+        <h5 class="mb-0 text-theme">Trusted Partner:</h5>
+      </div>
+      <div class="col-xxl-10 col-md-9 mt-3 mt-md-0">
+        <div class="swiper client-swiper">
+          <div class="swiper-wrapper">
+            <div class="swiper-slide">
+              <div class="clients-logo">
+                <img class="img-fluid" src="images/client/orient.png" alt="">
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="clients-logo">
+                <img class="img-fluid" src="images/client/v2.png" alt="">
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="clients-logo">
+                <img class="img-fluid" src="images/client/vishalmart.png" alt="">
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="clients-logo">
+                <img class="img-fluid" src="images/client/vmart.png" alt="">
+              </div>
+            </div>
+            <div class="swiper-slide">
+              <div class="clients-logo">
+                <img class="img-fluid" src="images/client/zodio.png" alt="">
+              </div>
+            </div>
+            
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!--brand logo end-->
+
 <section class="reels-section d-none">
         <div class="container">
             <h2 class="section-title">Our Production Reels </h2>
@@ -1004,7 +1050,7 @@
 
 <!--brand logo start-->
 
-<section class="d-none pb-0">
+<section class=" pb-0">
   <div class="container">
     <div class="row align-items-center border-bottom border-light pb-10">
       <div class="col-xxl-2 col-md-3">
@@ -1015,44 +1061,30 @@
           <div class="swiper-wrapper">
             <div class="swiper-slide">
               <div class="clients-logo">
-                <img class="img-fluid" src="images/client/01.png" alt="">
+                <img class="img-fluid" src="images/client/orient.png" alt="">
               </div>
             </div>
             <div class="swiper-slide">
               <div class="clients-logo">
-                <img class="img-fluid" src="images/client/02.png" alt="">
+                <img class="img-fluid" src="images/client/v2.png" alt="">
               </div>
             </div>
             <div class="swiper-slide">
               <div class="clients-logo">
-                <img class="img-fluid" src="images/client/03.png" alt="">
+                <img class="img-fluid" src="images/client/vishalmart.png" alt="">
               </div>
             </div>
             <div class="swiper-slide">
               <div class="clients-logo">
-                <img class="img-fluid" src="images/client/04.png" alt="">
+                <img class="img-fluid" src="images/client/vmart.png" alt="">
               </div>
             </div>
             <div class="swiper-slide">
               <div class="clients-logo">
-                <img class="img-fluid" src="images/client/05.png" alt="">
+                <img class="img-fluid" src="images/client/zodio.png" alt="">
               </div>
             </div>
-            <div class="swiper-slide">
-              <div class="clients-logo">
-                <img class="img-fluid" src="images/client/06.png" alt="">
-              </div>
-            </div>
-            <div class="swiper-slide">
-              <div class="clients-logo">
-                <img class="img-fluid" src="images/client/07.png" alt="">
-              </div>
-            </div>
-            <div class="swiper-slide">
-              <div class="clients-logo">
-                <img class="img-fluid" src="images/client/08.png" alt="">
-              </div>
-            </div>
+            
           </div>
         </div>
       </div>
@@ -1136,6 +1168,7 @@
     </div>
   </div>
 </section>
+
 
 <!--blog end-->
 

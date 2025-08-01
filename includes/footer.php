@@ -5,7 +5,7 @@
       <div class="row">
         <div class="col-lg-4 pe-lg-8">
           <a class="navbar-brand logo footer-logo mb-4 d-flex justify-content-center " href="<?php echo $base_url; ?>index.html">
-            <img class="img-fluid" src="<?php echo $base_url; ?>images/logo-krishna.png" alt="Krishna Steel Industries Logo">
+            <img class="img-fluid" src="<?php echo $base_url; ?>images/white-logo.svg" alt="Krishna Steel Industries Logo">
           </a>
           <ul class="media-icon list-unstyled">
             <li>
