@@ -46,7 +46,7 @@
       </div>
       <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
         <div class="contact-media text-center">
-          <img class="img-fluid" src="images/Service-Inquiry.png" alt="Image">
+          <img class="img-fluid d-none" src="images/Service-Inquiry.png" alt="Image">
           <div class="contact-info">
             <i class="flaticon flaticon-telephone"></i>
             <h4>Mr. Surendra Kumar Sharma</h4>
@@ -57,7 +57,7 @@
       </div>
       <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
         <div class="contact-media text-center">
-          <img class="img-fluid" src="images/Service-Inquiry.png" alt="Image">
+          <img class="img-fluid d-none" src="images/Service-Inquiry.png" alt="Image">
           <div class="contact-info">
             <i class="flaticon flaticon-telephone"></i>
             <h4>Mr. Abhishek Shandilya</h4>
