@@ -40,7 +40,7 @@
           <div class="contact-info">
             <i class="flaticon flaticon-pin-1"></i>
             <h4>Our Address</h4>
-            <p class="mb-0"> H-141, Sector-1, DSIIDC Industrial Area Bawana, New Delhi- 110039 (INDIA)</p>
+            <p class="mb-0"> Kh.no 23/3,24/2, Safiyabad Road, Gautam Colony, Gali No - 10, Narela, New Delhi - 110040, Delhi, India</p>
           </div>
         </div>
       </div>
@@ -71,7 +71,7 @@
           <div class="contact-info">
             <i class="flaticon flaticon-mail"></i>
             <h4>Email Address</h4>
-            <a href="mailto:info@keshaventerprises.com">info@keshaventerprises.com</a>
+            <a href="mailto:info@krishnasteelindustries.com">info@krishnasteelindustries.com</a>
           </div>
         </div>
       </div>
