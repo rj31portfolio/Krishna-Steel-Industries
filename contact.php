@@ -113,14 +113,7 @@
               </div>
             </div>
             <div class="col-md-6">
-              <div class="form-group">
-                <select class="form-control form-select" aria-label="Default select example">
-                  <option selected>Select Service</option>
-                  <option value="1">Industry</option>
-                  <option value="2">Construction</option>
-                  <option value="3">Factory</option>
-                </select>
-              </div>
+              
             </div>
           </div>
           <div class="row">
