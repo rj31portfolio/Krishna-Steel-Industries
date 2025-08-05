@@ -1047,10 +1047,6 @@
 
 <!--testimonial end-->
 
-
-
-
-
 <!--blog start-->
 
 <section class="d-none">
@@ -1124,8 +1120,6 @@
     </div>
   </div>
 </section>
-
-
 <!--blog end-->
 
 </div>

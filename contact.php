@@ -141,7 +141,7 @@
       </div>
       <div class="col-lg-4 col-md-12 mt-6 mt-lg-0">
         <div class="map iframe-h-2">
-          <iframe src="https://maps.google.com/maps?width=600&amp;height=400&amp;hl=en&amp;q=Keshav Enterprises&amp;t=&amp;z=13&amp;ie=UTF8&amp;iwloc=B&amp;output=embed" allowfullscreen=""></iframe>
+          <iframe width="600px" height="450px" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps/embed/v1/place?q=Krishna%20Steel%20Industries&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"></iframe>
         </div>
       </div>
     </div>
@@ -150,3 +150,4 @@
 
 <!--footer start-->
 <?php require_once('includes/footer.php');?>
+
